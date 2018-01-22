@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    ///
+    /// ВНЕСЛИ ИЗМЕНЕНИЯ
     // Будет переспрашивать, пока не получит int число на вводе
     private static Integer getInt(int a, int b) {
         // Результат, флаг выхода из цикла, сканер
